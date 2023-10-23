@@ -36,15 +36,31 @@
 
 ## Education
 
-- 📖 **CS50's Introduction to Game Development**\
-📆 2023\
-📍 **Harvard University** - Cambridge, Massachusetts
+**CS50's Introduction to Game Development**\
+2023\
+**Harvard University** - Cambridge, Massachusetts
 
-- 📖 **Bechelor's Degree in Informatics and Computer Science**\
-📆 2012 - 2016\
-📍 **Kaliningrad State Technical University** - Kaliningrad, Russia
+**Bechelor's Degree in Informatics and Computer Science**\
+2012 - 2016\
+**Kaliningrad State Technical University** - Kaliningrad, Russia
 
 ## Experience
+
+**QA Senior engineer, Team Lead**
+Bars group · Full-timeBars group · Full-time
+2021 - 2022
+
+**QA Engineer**
+Tensor.ru - Full-time
+2018 - 2021 
+
+
+**Frontend Web Developer**
+Simple1.ru - Full-time
+2017 - 2018
+
+
+
 </details>
 
 <!--
