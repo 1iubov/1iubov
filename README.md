@@ -53,7 +53,7 @@
 ## Experience
 
 **QA Senior engineer, Team Lead**\
-Bars group · Full-time\
+Bars group - Full-time\
 2021 - 2022
 <img align="right" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
