@@ -39,6 +39,10 @@
 **CS50's Introduction to Game Development**\
 2023\
 **Harvard University** - Cambridge, Massachusetts
+<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
+
 
 **Bechelor's Degree in Informatics and Computer Science**\
 2012 - 2016\
