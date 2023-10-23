@@ -29,6 +29,24 @@
   📫 How to reach me: <a href='mailto:1iubov.valerianovna@gmail.com'>1iubov.valerianovna@gmail.com</a>
 </p>
 
+
+<details>
+  <summary>📃 Resume</summary>
+
+
+## Education
+
+- 📖 **CS50's Introduction to Game Development**\
+📆 2023\
+📍 **Harvard University** - Cambridge, Massachusetts
+
+- 📖 **Bechelor's Degree in Informatics and Computer Science**\
+📆 2012 - 2016\
+📍 **Kaliningrad State Technical University** - Kaliningrad, Russia
+
+## Experience
+</details>
+
 <!--
 **1iubov/1iubov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
