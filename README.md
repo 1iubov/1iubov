@@ -46,17 +46,17 @@
 
 ## Experience
 
-**QA Senior engineer, Team Lead**
-Bars group · Full-timeBars group · Full-time
+**QA Senior engineer, Team Lead**\
+Bars group · Full-time\
 2021 - 2022
 
-**QA Engineer**
-Tensor.ru - Full-time
+**QA Engineer**\
+Tensor.ru - Full-time\
 2018 - 2021 
 
 
-**Frontend Web Developer**
-Simple1.ru - Full-time
+**Frontend Web Developer**\
+Simple1.ru - Full-time\
 2017 - 2018
 
 
