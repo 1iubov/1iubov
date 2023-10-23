@@ -64,6 +64,7 @@ Tensor.ru - Full-time\
 2018 - 2021 
 <img align="right" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img align="right" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
 
 **Frontend Web Developer**\
 Simple1.ru - Full-time\
